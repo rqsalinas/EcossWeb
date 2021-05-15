@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="description" content="Diseño y nuevos medios, segunda versión remota" />
+        <title>EVALUACIÓN Nº2 &#127909;</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body class="portada">
+        <div class="container">
+            <nav>
+                <p><a href="index.html" class="active">Portada</a> <a href="peliculas.html">Películas</a> <a href="locaciones.html">Locaciones</a> <a href="ganancias.html">Ganancias</a></p>
+            </nav>
+            <header>
+                <div>
+                        <h1>Rápido y furioso</h1>
+                        <p> Bienvenid@, en este sitio web se encuentra una recopilación sobre las películas de Rápido y Furioso. Es una franquicia de medios estadounidense centrada en una serie de películas de acción que se ocupan en gran medida de carreras callejeras.</a></p>
+                </div>
+            </header>
+            <footer>
+                <p><a href="https://github.com/ValentinaRey">Valentina Rey</a> <a href="https://github.com/profesorfaco/dno037-2021">DNO037</a></p>
+            </footer>
+        </div>
+    </body>
+</html>
